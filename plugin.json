@@ -1,0 +1,7 @@
+{
+  "name": "astrbot_plugin_dida_todo",
+  "version": "1.0.1",
+  "description": "滴答清单待办管理（支持自然语言时间解析）",
+  "author": "neko_neko",
+  "requirements": ["httpx>=0.24.0"]
+}

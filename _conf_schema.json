@@ -1,0 +1,8 @@
+{
+  "dida_token": {
+    "type": "string",
+    "description": "滴答清单 API Token",
+    "hint": "请在滴答清单开放平台获取你的 API Token",
+    "obvious_hint": true
+  }
+}
