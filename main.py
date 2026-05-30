@@ -204,7 +204,7 @@ class DidaTodoPlugin(Star):
         global PLUGIN_CONFIG
         PLUGIN_CONFIG = config
 
-        logger.info("滴答清单插件 v3.1.0 已加载 (已修复配置读取问题)")
+        logger.info("滴答清单插件 v1.0.1 已加载 (已修复配置读取问题)")
 
         try:
             self.context.add_llm_tools(
